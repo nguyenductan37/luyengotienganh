@@ -1,0 +1,6 @@
+{
+  "name": "10-Finger Touch Typing & English Learner",
+  "description": "Luyện gõ 10 ngón tiếng Anh từ cơ bản đến nâng cao: Gõ từ vựng chuyên ngành, câu giao tiếp thông dụng kết hợp học phát âm, nghĩa tiếng Việt và AI Bài Học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
